@@ -1,0 +1,45 @@
+Type,Region,Residence Type,Service Type,Year,Coverage,Population,Service level
+unicef_new,Eastern & Southern Africa,total,Drinking water,2017,28.75913,160006436.73035,Basic service
+unicef_new,Eastern & Southern Africa,rural,Drinking water,2017,31.85055,116882992.31342,Basic service
+unicef_new,Eastern & Southern Africa,urban,Drinking water,2017,22.76916,43123442.91807,Basic service
+unicef_new,Eastern & Southern Africa,total,Drinking water,2017,17.3547,96555872.91968,Limited service
+unicef_new,Eastern & Southern Africa,rural,Drinking water,2017,21.6102,79303664.63344,Limited service
+unicef_new,Eastern & Southern Africa,urban,Drinking water,2017,9.10916,17252207.27166,Limited service
+unicef_new,Eastern & Southern Africa,total,Drinking water,2017,29.19839,162450305.17068,Safely managed service
+unicef_new,Eastern & Southern Africa,rural,Drinking water,2017,12.33801,45277201.46634,Safely managed service
+unicef_new,Eastern & Southern Africa,urban,Drinking water,2017,61.86734,117173103.10653,Safely managed service
+unicef_new,Eastern & Southern Africa,total,Drinking water,2017,9.71766,54065885.00285,Surface water
+unicef_new,Eastern & Southern Africa,rural,Drinking water,2017,13.97481,51283797.9485,Surface water
+unicef_new,Eastern & Southern Africa,urban,Drinking water,2017,1.46894,2782086.39946,Surface water
+unicef_new,Eastern & Southern Africa,total,Drinking water,2017,14.97012,83288864.17643,Unimproved
+unicef_new,Eastern & Southern Africa,rural,Drinking water,2017,20.22643,74225590.67709,Unimproved
+unicef_new,Eastern & Southern Africa,urban,Drinking water,2017,4.78541,9063277.2655,Unimproved
+unicef_new,Middle East & North Africa,rural,Drinking water,2017,88.06303,137156382.44205,At least basic
+unicef_new,Middle East & North Africa,total,Drinking water,2017,16.3107,72214851.88617,Basic service
+unicef_new,Middle East & North Africa,urban,Drinking water,2017,12.95664,37185206.21181,Basic service
+unicef_new,Middle East & North Africa,total,Drinking water,2017,3.5557,15742683.60038,Limited service
+unicef_new,Middle East & North Africa,rural,Drinking water,2017,6.66791,10385136.92734,Limited service
+unicef_new,Middle East & North Africa,urban,Drinking water,2017,1.86676,5357546.84119,Limited service
+unicef_new,Middle East & North Africa,total,Drinking water,2017,77.77727,344355195.09124,Safely managed service
+unicef_new,Middle East & North Africa,urban,Drinking water,2017,84.40096,242228462.55672,Safely managed service
+unicef_new,Middle East & North Africa,total,Drinking water,2017,0.72141,3193987.44377,Surface water
+unicef_new,Middle East & North Africa,rural,Drinking water,2017,2.01287,3135005.48982,Surface water
+unicef_new,Middle East & North Africa,urban,Drinking water,2017,0.02055,58981.9895,Surface water
+unicef_new,Middle East & North Africa,total,Drinking water,2017,1.63492,7238541.27844,Unimproved
+unicef_new,Middle East & North Africa,rural,Drinking water,2017,3.25618,5071438.65117,Unimproved
+unicef_new,Middle East & North Africa,urban,Drinking water,2017,0.75509,2167098.14055,Unimproved
+unicef_new,West & Central Africa,total,Drinking water,2017,42.1759,213282187.03012,Basic service
+unicef_new,West & Central Africa,rural,Drinking water,2017,35.61027,97839166.96392,Basic service
+unicef_new,West & Central Africa,urban,Drinking water,2017,49.98682,115443020.82787,Basic service
+unicef_new,West & Central Africa,total,Drinking water,2017,9.82666,49693113.37931,Limited service
+unicef_new,West & Central Africa,rural,Drinking water,2017,11.34255,31163639.7911,Limited service
+unicef_new,West & Central Africa,urban,Drinking water,2017,8.02326,18529473.49756,Limited service
+unicef_new,West & Central Africa,total,Drinking water,2017,21.8553,110521527.9622,Safely managed service
+unicef_new,West & Central Africa,rural,Drinking water,2017,11.92241,32756795.70567,Safely managed service
+unicef_new,West & Central Africa,urban,Drinking water,2017,33.67212,77764733.2266,Safely managed service
+unicef_new,West & Central Africa,total,Drinking water,2017,6.81764,34476569.0798,Surface water
+unicef_new,West & Central Africa,rural,Drinking water,2017,11.31354,31083940.8528,Surface water
+unicef_new,West & Central Africa,urban,Drinking water,2017,1.46901,3392627.86099,Surface water
+unicef_new,West & Central Africa,total,Drinking water,2017,19.3245,97723367.54807,Unimproved
+unicef_new,West & Central Africa,rural,Drinking water,2017,29.81122,81906284.64801,Unimproved
+unicef_new,West & Central Africa,urban,Drinking water,2017,6.84879,15817081.62553,Unimproved
